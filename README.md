@@ -1,3 +1,10 @@
+Step by step Instructions to run the file
+
+1. Clone the repo https://github.com/prateektr1/hackerRankSolution-Question3.git
+2. Open CMD
+3. Navigate to folder hackerRankSolution-Question3.git
+4. Run the commands as per your requirements mentioned below
+
 # ASCII Text Stream Processor (sproc)
 
 This is a command-line tool for processing ASCII text streams. It provides commands for searching and updating text streams.
